@@ -21,13 +21,13 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
 
 ## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-   - Antes de executar o bot, é necessário importar o arquivo `DATABASE.sql`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL) para orientações detalhadas.
+   - Antes de executar o bot, é necessário importar o arquivo `DATABASE.sql`.
 
 2. **Editar o código:**
    - Certifique-se de substituir "localhost", "seu_usuario" e "sua_senha" no arquivo `DB_CONNECTION.py` pelas informações corretas do seu banco de dados POSTGRESQL.
 
 3. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
 
 4. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
@@ -39,6 +39,7 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
 ## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [PROJETO BASEADO NO "CRUD DE MULTIMIDIAS BOT"](https://github.com/VILHALVA/CRUD-DE-MULTIMIDIAS-BOT)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+- [CURSO DE POSTGRESQL](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL)
 
 
