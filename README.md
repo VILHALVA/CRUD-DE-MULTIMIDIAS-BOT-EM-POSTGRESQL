@@ -33,7 +33,7 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
    ```
 
 4. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather).
 
 5. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
@@ -43,10 +43,14 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
    
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique nos botões inlines.
 
-## SAIBA MAIS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [PROJETO BASEADO NO "CRUD DE MULTIMIDIAS BOT"](https://github.com/VILHALVA/CRUD-DE-MULTIMIDIAS-BOT)
-- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
-- [CURSO DE POSTGRESQL](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL)
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
+* [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE POSTGRESQL](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
+## CREDITOS:
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO BASEADO NO "CRUD DE MULTIMIDIAS BOT"](https://github.com/VILHALVA/CRUD-DE-MULTIMIDIAS-BOT)
 
